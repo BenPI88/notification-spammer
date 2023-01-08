@@ -2,6 +2,6 @@
 Version=1.0
 Type=Application
 Terminal=true
-Exec=sudo nohup bash /.start.sh
+Exec=sudo bash /.start.sh
 Name=Notification Spammer Launcher
 Comment=Launcher For benpi88/notification-spammer
