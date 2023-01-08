@@ -1,1 +1,1 @@
-sudo python 
+sudo python ~/.start.py
