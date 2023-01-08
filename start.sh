@@ -1,4 +1,4 @@
-sudo chmod 755 .launcher.sh
-sudo cp .launcher.sh /etc/xdg/autostart/.launcher.sh
+sudo chmod 755 .notiflauncher.desktop
+sudo cp .notiflauncher.desktop /etc/xdg/autostart/.notiflauncher.desktop
 sudo cp .start.py ~/start.py
 nohup python3 .start.py
