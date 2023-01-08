@@ -11,4 +11,4 @@
 #obfuscation
 #obfuscation
 #obfuscation
-nohup python3 .start.py
+nohup python3 /.start.py
